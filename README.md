@@ -1,6 +1,6 @@
 # Phishing Email Detection Model
 
-A Scikit-learn based machine learning project that classifies emails as **Phishing** or **Safe** using textual content and simple URL or keyword-related features. Scikit-learn provides built-in tools for confusion matrices and classification workflows, and phishing email detection projects commonly use TF-IDF style text features with standard classifiers for this task.[web:43][web:41]
+A Scikit-learn based machine learning project that classifies emails as **Phishing** or **Safe** using textual content and simple URL or keyword-related features. Scikit-learn provides built-in tools for confusion matrices and classification workflows, and phishing email detection projects commonly use TF-IDF style text features with standard classifiers for this task.
 
 ## Features
 
